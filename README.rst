@@ -1,5 +1,5 @@
-Boilerplate with Compass
-========================
+Boilerplate with Compass (DEPRECATED)
+=====================================
 
 This project is the basic boilerplate I use with Compass_, including some configuration I always do between projects.
 
